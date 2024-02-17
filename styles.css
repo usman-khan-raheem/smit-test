@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.social-media-icon {
+    font-size: 1.2rem;
+    color: black;
+    margin: 10px;
+}
+.fa-mobile-screen-button {
+    color: #737FA0;
+}
+.fa-envelope{
+    color: #737FA0;
+}
+.fa-clock{
+    color: #737FA0;
+}
+.fa-facebook{
+color: whitesmoke;
+}
+.fa-twitter{
+    color: whitesmoke;
+}
+.fa-linkedin{
+    color: whitesmoke;
+}
+.fa-pinterest-p{
+    color: whitesmoke;
+}
+span:hover{
+    text-decoration: underline;
+}
+.nav-1{
+    background-color:#2B2E4A;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.nav-1 li a:hover{
+color: orange;
+}
+.icon{
+    font-size: 3rem;
+    color: orange;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+.content h1{
+    font-size: 7vmin;
+    color: #F77D0A;
+    font-weight: 800;
+}
+.content p{
+    font-size: 7vmin;
+    color:#2B2E4A;
+    font-weight: 800;
+}
+.royal{
+    font-size: 7vmin;
+    color: #F77D0A;
+    font-weight: 800;
+}
+.box1{
+    background-color:#F4F5F8;
+    margin: 10px;
+    width: 400px;
+    height: 100px;
+}
+.box2{
+    background-color: #2B2E4A;
+    width: 400px;
+    margin: 10px;
+    height: 100px; 
+}
+.box3{
+    background-color:#F4F5F8;
+    width: 400px;
+    margin: 10px;
+    height: 100px; 
+}
+
+.fa-headset{
+    font-size: 3rem;
+    background-color: #F77D0A;
+}
+.fa-car{
+    font-size: 3rem;
+    background-color: #F77D0A;  
+}
+.fa-location-dot{
+    font-size: 3rem;
+    background-color: #F77D0A;  
+}
+.nav-link a{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.se-foot{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: gray;
+    color: whitesmoke;
+}
+
+@media (max-width: 767.98px)
+{ 
+    .koko{
+        display: none;
+    }
+ }
+
+
